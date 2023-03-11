@@ -140,6 +140,7 @@ header .navigation .navigation-icons a:hover:before{
 
 .project-title{
     text-align: left;
+    font-size: 50PX;
     margin-bottom: 15px;
     text-transform: uppercase;
     font-weight: 600;
@@ -149,6 +150,7 @@ header .navigation .navigation-icons a:hover:before{
     margin-bottom: 50px;
     text-transform: uppercase;
     font-weight: 600;
+    font-size: 25px;
 }
 
 .prj-image-container .image-main{
